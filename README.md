@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giuseppedm98&label=Profile%20views&color=0e75b6&style=flat" alt="giuseppedm98" /> </p>
 
-- 🌱 I’m currently learning **Game Development with Unity**
+- 🌱 I’m currently learning **Javascript/React**
 
 - 📫 How to reach me **gdimaio9814@gmail.com**
 
