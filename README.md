@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giuseppedm98&label=Profile%20views&color=0e75b6&style=flat" alt="giuseppedm98" /> </p>
 
-- 🌱 I’m currently learning **Javascript/Three JS and I'm exploring the world of game development with Unity and C# to be able to create VR/AR games!**
+- 🌱 Right now I'm improving my knowledge in **C# for video game development using Unity 🎮 (both VR/XR and "classic" games).**
 
 - 📫 How to reach me **gdimaio9814@gmail.com**
 
