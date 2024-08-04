@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giuseppedm98&label=Profile%20views&color=0e75b6&style=flat" alt="giuseppedm98" /> </p>
 
-- 🌱 Right now I'm improving my knowledge in **C# for video game development using Unity 🎮 (both VR/XR and "classic" videogames).**
+- 🌱 Right now I'm improving my knowledge in **Javascript and Java the first to build web apps, useful first of all for me (I'm thinking of a web app to keep track of my weight lifting workouts), the second to improve the writing of automatic tests using the Selenium framework.**
 
 - 📫 How to reach me **gdimaio9814@gmail.com**
 
