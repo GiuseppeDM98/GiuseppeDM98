@@ -1,6 +1,4 @@
 # Hi 👋, I'm Giuseppe Di Maio
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GiuseppeDM98&label=Profile views&color=0e75b6&style=flat" alt="GiuseppeDM98" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GiuseppeDM98" alt="GiuseppeDM98" /></a> </p>
 
 - 🔭 I'm currently working on **Building an online recipe book, through the saved recipes the user will also be able to organize weekly meals**
