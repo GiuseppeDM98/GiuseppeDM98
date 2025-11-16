@@ -1,11 +1,7 @@
 # Hi 👋, I'm Giuseppe Di Maio
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GiuseppeDM98" alt="GiuseppeDM98" /></a> </p>
 
-- 🔭 I'm currently working on **Building an online recipe book, through the saved recipes the user will also be able to organize weekly meals**
-
-- 🌱 I'm currently learning how to optimize RAG applications and am trying to implement AI in my workplace in the most useful ways possible!
-
-- 📫 How to reach me **gdimaio9814@gmail.com**
+How to reach me **gdimaio9814@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
