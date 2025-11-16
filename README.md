@@ -2,7 +2,7 @@
 
 ### Someone who codes
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GiuseppeDM98&label=Profile views&color=0e75b6&style=flat" alt="GiuseppeDM98" /> </p>
+<p align="left"> <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GiuseppeDM98" alt="GiuseppeDM98" /></a> </p>
 
