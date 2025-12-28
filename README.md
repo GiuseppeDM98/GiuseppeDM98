@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **gdimaio9814@gmail.com**
 
-- ⚡ Fun fact **I make jokes so bad that they become funny**
+- ⚡ Fun fact: **I make jokes so bad that they become funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
