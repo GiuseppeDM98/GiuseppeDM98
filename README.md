@@ -2,8 +2,6 @@
 
 ### Someone who codes
 
-<p align="left"> Profile visits <p><img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /> </p>
-
 - 🔭 I'm currently working on an **Open Source personal finance app!**
 
 - 📫 How to reach me **gdimaio9814@gmail.com**
