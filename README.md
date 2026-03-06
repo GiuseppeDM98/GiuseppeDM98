@@ -1,6 +1,6 @@
 # Hi 👋, I'm Giuseppe Di Maio
 
-### Someone who codes
+### Software Architect
 
 - 🔭 I'm currently working on an **Open Source personal finance app!**
 
