@@ -1,6 +1,6 @@
 # Hi 👋, I'm Giuseppe Di Maio
 
-### Software Architect
+### IT Manager
 
 - 🔭 I'm currently working on an **Open Source personal finance app!**
 
